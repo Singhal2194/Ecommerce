@@ -221,7 +221,7 @@ public class ImageUrlUtils {
                 "https://static.pexels.com/photos/26890/pexels-photo-26890-medium.jpg",
                 "https://static.pexels.com/photos/67442/pexels-photo-67442-medium.jpeg",
                 "https://static.pexels.com/photos/159494/book-glasses-read-study-159494-medium.jpeg",
-                "https://static.pexels.com/photos/33283/stack-of-books-vintage-books-book-books-medium.jpg",
+                "https://static.pexels.com/photos/33283/stack-of-books-intage-books-book-books-medium.jpg",
                 "https://static.pexels.com/photos/205323/pexels-photo-205323-medium.png",
                 "https://static.pexels.com/photos/38167/pexels-photo-38167-medium.jpeg",
                 "https://static.pexels.com/photos/68562/pexels-photo-68562-medium.jpeg",
