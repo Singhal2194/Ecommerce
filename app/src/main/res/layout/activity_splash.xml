@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layout_linear"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical"
+    android:gravity="center">
+    <android.support.v7.widget.AppCompatImageView
+        android:id="@+id/fullscreen_content"
+        android:layout_width="130dp"
+        android:layout_height="123dp"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:src="@mipmap/app_icon" />
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="321dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="142dp"
+        android:layout_marginEnd="17dp"
+        android:text="Complete Home Appliances"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        />
+</LinearLayout>
+
+
